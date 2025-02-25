@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Net8Tester", "Net8Tester.csproj", "{2946714F-65B8-4DF1-A063-8287ED87132F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2946714F-65B8-4DF1-A063-8287ED87132F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2946714F-65B8-4DF1-A063-8287ED87132F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2946714F-65B8-4DF1-A063-8287ED87132F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2946714F-65B8-4DF1-A063-8287ED87132F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F4D84CF4-2F0B-4466-857B-C36F903AA7D2}
+	EndGlobalSection
+EndGlobal

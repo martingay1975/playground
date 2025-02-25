@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "Topic1Consumer": {
+      "commandName": "Project",
+      "commandLineArgs": "topic1consumer1"
+    }
+  }
+}
