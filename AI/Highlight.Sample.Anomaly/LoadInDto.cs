@@ -7,6 +7,7 @@ namespace Highlight.Sample.Anomaly
     {
         [Index(0)]
         [LoadColumn(0)]
+        [Format("dd/MM/yyyy HH:mm")]
         [ColumnName(@"Time")]
         public DateTime Time { get; set; }
 

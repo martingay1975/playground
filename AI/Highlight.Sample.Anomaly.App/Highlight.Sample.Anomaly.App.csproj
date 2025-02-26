@@ -8,11 +8,13 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <None Remove="Data\Oct24-Avg-19768-19871.csv" />
     <None Remove="Data\samples-dedx-jan2024.csv" />
     <None Remove="Data\samples-lh.csv" />
   </ItemGroup>
 
   <ItemGroup>
+    <EmbeddedResource Include="Data\Oct24-Avg-19768-19871.csv" />
     <EmbeddedResource Include="Data\samples-dedx-jan2024.csv" />
     <EmbeddedResource Include="Data\samples-lh.csv" />
   </ItemGroup>

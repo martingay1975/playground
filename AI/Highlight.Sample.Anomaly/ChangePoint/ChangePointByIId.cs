@@ -23,7 +23,7 @@ namespace Highlight.Sample.Anomaly.ChangePoint
                 outputColumnName: nameof(SpikePredictionPValue.Prediction),
                 inputColumnName: nameof(LoadInDto.In),
                 confidence: 90d,
-                changeHistoryLength: 100,
+                changeHistoryLength: 40,
                 martingale: MartingaleType.Mixture,
                 eps: 0.2);
 
